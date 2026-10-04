@@ -38,7 +38,7 @@ The aim of this project is to show the difference between a small angle pendulum
 
 ## License
 
-Distributed under the MIT License.
+Distributed under the [MIT License](https://github.com/potatoBrain07/Pendulum_python/LICENSE).
 
 ----------
 
