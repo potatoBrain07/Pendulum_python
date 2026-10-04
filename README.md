@@ -1,6 +1,4 @@
 
-----------
-
 # Pendulum
 
 This is a pendulum simulation built in Python. 
@@ -34,7 +32,7 @@ The aim of this project is to show the difference between a small angle pendulum
 
 ## Usage
 
-
+<img width="2560" height="960" alt="image" src="https://github.com/user-attachments/assets/76eea6f3-59e3-4d96-befa-ab7edd1c1b48" />
 
 ----------
 
